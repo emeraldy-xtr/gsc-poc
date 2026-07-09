@@ -1,5 +1,4 @@
 User-agent: *
-
 Allow: /
 
-Sitemap: https://emeraldy-xtr.github.io/gsc-poc/sitemap.xml
+Sitemap: https://gsc-poc.pages.dev/sitemap.xml
